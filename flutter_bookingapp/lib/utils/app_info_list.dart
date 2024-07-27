@@ -22,7 +22,7 @@ List<Map<String, dynamic>> hotelList = [
 // List the ticket view
 List<Map<String, dynamic>> ticketList = [
   {
-    'from': {'code': "CPP", 'name': "Phonm Penh"},
+    'from': {'code': "CPP", 'name': "Phnom Penh"},
     'to': {'code': "SRA", 'name': "Siem Reap"},
     'fly_time': '8H 30M',
     'date': "1 MAY",
